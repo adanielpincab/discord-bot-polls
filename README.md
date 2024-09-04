@@ -1,1 +1,1 @@
-# discord-bot-polls
+Discord bot for Polls
